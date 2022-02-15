@@ -1,0 +1,16 @@
+labov
+schwa
+vocal
+vowel
+nasal
+velum
+teeth
+velar
+place
+broad
+sound
+glide
+voice
+trill
+click
+socio
